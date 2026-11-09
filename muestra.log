@@ -1,3 +1,7 @@
-pandas
-matplotlib
-agregar dependencias 
+192.168.1.10 - - [10/Oct/2026:13:55:36 -0500] "GET /index.html HTTP/1.1" 200 2326
+203.0.113.5 - - [10/Oct/2026:13:56:01 -0500] "POST /login HTTP/1.1" 401 512
+203.0.113.5 - - [10/Oct/2026:13:56:02 -0500] "POST /login HTTP/1.1" 401 512
+203.0.113.5 - - [10/Oct/2026:14:02:10 -0500] "GET /admin.php HTTP/1.1" 404 196
+198.51.100.7 - - [10/Oct/2026:14:10:45 -0500] "GET /api/datos HTTP/1.1" 500 0
+2026-10-10 14:11:00 ERROR Conexión a la base de datos perdida
+2026-10-10 14:11:05 WARNING Reintentando conexión
